@@ -6,6 +6,8 @@ Victor</a></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorbriez&show_icons=true&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Victorbriez&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
