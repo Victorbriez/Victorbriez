@@ -8,6 +8,8 @@ Victor</a></h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Victorbriez&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=qfgx14bpiz8s8r3d436q5xa0g)](https://open.spotify.com/user/qfgx14bpiz8s8r3d436q5xa0g)
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
