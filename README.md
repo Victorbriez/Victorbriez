@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A passionate Full-Stack developer & Epitech Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victorbriez&label=Profile%20views&color=0e75b6&style=flat" alt="victorbriez" /> </p>
-
 - 🔭 I’m currently working on [OverlayMaster](https://github.com/Victorbriez/OverlayMaster)
 
 - 🌱 I’m currently learning **Web FullStack Development with ReactJS**
