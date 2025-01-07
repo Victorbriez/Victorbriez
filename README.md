@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A passionate Full-Stack developer & Epitech Student</h3>
 
-- 🔭 I’m currently working on [OverlayMaster](https://github.com/Victorbriez/OverlayMaster)
+- 🔭 I’m currently working on [EpiRooms](https://github.com/Victorbriez/EpiRooms)
 
-- 🌱 I’m currently learning **Web FullStack Development with ReactJS**
+- 🌱 I’m currently learning **Web FullStack Development with NextJs**
 
 - 📫 How to reach me **victor.briez@gmail.com**
 
