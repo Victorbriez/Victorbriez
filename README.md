@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A passionate Full-Stack developer & Epitech Student</h3>
 
-- 🔭 I’m currently working on [EpiRooms](https://github.com/Victorbriez/EpiRooms) and [SA Twitch App](https://github.com/Victorbriez/sa-twitch-app)
+- 🔭 I’m currently working on [My-EpiRooms]([https://github.com/Victorbriez/EpiRooms](https://github.com/Victorbriez/my-epirooms)) and [SA Twitch App](https://github.com/Victorbriez/sa-twitch-app)
 
 - 🌱 I’m currently learning **Web FullStack Development with NextJs**
 
